@@ -1,1 +1,1 @@
-false
+_G.status = true
